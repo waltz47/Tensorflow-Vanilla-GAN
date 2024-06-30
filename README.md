@@ -2,7 +2,7 @@
 
 GAN in tensorflow. Trained on environment images from cyberpunk 2077.
 
-The generator improves incrementally (flatlining around epoch ~2000). There are no noticeable changes even after training for another 100 epochs. Most likely, the generator/discrimintor model architecture needs to be improved.
+The generator improves incrementally (flatlining around epoch ~2000). There are no noticeable changes after training for another 100 epochs. 
 
 **At epoch 10:**
 
@@ -20,5 +20,7 @@ The generator improves incrementally (flatlining around epoch ~2000). There are 
 
 <img src="https://github.com/waltz47/Vanilla-GAN/blob/main/snapshots/image_at_epoch_1540.png" width=800 height=800></img>
 
+**Epoch 2130:**
 
+<img src="https://github.com/waltz47/Vanilla-GAN/blob/main/snapshots/image_at_epoch_2130.png" width=800 height=800></img>
 
